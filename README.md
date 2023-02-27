@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rekt</h1>
 <h3 align="center">A passionate 3rd student of UIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rekyb415&label=Profile%20views&color=0e75b6&style=flat" alt="rekyb415" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rekyb415" alt="rekyb415" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
