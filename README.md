@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rekt</h1>
-  <h3 align="center" ><img src="https://readme-typing-svg.demolab.com?font=&color=%FFFFFF&lines=%F0%9F%93%8A+Data+Scientist;%F0%9F%8F%A2+3rd+year+student at+UIT;></h3>
+  <h3 align="center" ><img src="https://readme-typing-svg.demolab.com?font=&color=%FFFFFF&lines=%F0%9F%93%8A+Data+Scientist;%F0%9F%8F%A2+3rd+year+student at+UIT;"></h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rekyb415&show_icons=true&locale=en&layout=compact" alt="rekyb415" /></p>
 
